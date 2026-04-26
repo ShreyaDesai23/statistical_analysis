@@ -1,0 +1,11 @@
+HYPOTHESIS TEST RESULTS
+
+Test 1: Mean Sales Test
+p-value < 0.05 → Sales are statistically significant.
+
+Test 2: East vs West Sales
+p-value result indicates whether sales differ between regions.
+
+Test 3: Price vs Sales Correlation
+Correlation coefficient shows relationship strength.
+If p-value < 0.05 → relationship is statistically significant.
